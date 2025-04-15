@@ -5,7 +5,7 @@ gem "rails", "~> 7.2.2", ">= 7.2.2.1"
 
 gem "bootstrap", "~> 5.3"
 
-gem "font-awesome-sass", "~> 5.0"
+gem "font-awesome-sass", "~> 6.7"
 
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
