@@ -1,24 +1,30 @@
-# README
+# PA4 Portfolio Project – COM 214
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**Name:** Theodore "Teddy" Taussig
 
-Things you may want to cover:
+**GitHub Repository:**  
+[https://github.com/Tttaussig33/PA4-Portfolio]
 
-* Ruby version
+## 📄 Description
 
-* System dependencies
+This is my Rails-based personal portfolio website for PA4. It includes:
 
-* Configuration
+- A Bootstrap-based layout and navigation
+- A Home page with personal intro and photo
+- A Projects page featuring past CS projects
+- A Resume page listing experience and skills
+- Bootstrap Icons
+- Custom CSS and animation effects
+- Smooth scroll and dark mode toggle (via JavaScript)
 
-* Database creation
+## 🎥 Demo Video
 
-* Database initialization
+[Watch the demo video on Google Drive] (https://drive.google.com/file/d/your-video-id/view?usp=sharing))
 
-* How to run the test suite
+## 🚀 How to Run
 
-* Services (job queues, cache servers, search engines, etc.)
+From the project folder:
 
-* Deployment instructions
-
-* ...
+```bash
+bundle install
+rails server
